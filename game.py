@@ -31,9 +31,6 @@ def game(max_number, attempts):
 
 
 
-
-
-
 def main():
     print("=" * 60)
     print("  Welcome to Number Guessing Game  ".center(60, "="))
@@ -69,3 +66,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
