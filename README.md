@@ -34,9 +34,9 @@ Choose your difficulty level and get helpful "too high" / "too low" hints.
 3. Run the game:
 
    ```bash
-   python guess.py
+   python game.py
    # or on some systems:
-   python3 guess.py
+   python3 game.py
    ```
 
 ## Example Gameplay
