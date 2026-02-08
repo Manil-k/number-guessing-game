@@ -74,7 +74,7 @@ Play again? (y/n):
 
 ## License
 
-MIT License — see the [LICENSE.md](LICENSE) file for full details.
+MIT License — see the [LICENSE](LICENSE) file for full details.
 
 ## Author
 
